@@ -1,0 +1,22 @@
+# Unreal Engine
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+
+# Logs
+*.log
+
+# User settings
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+
+# UE cache / registry
+*.bin
+*.tmp
+
+# Editor settings (ห้ามแชร์)
+Saved/Config/Windows/EditorPerProjectUserSettings.ini
